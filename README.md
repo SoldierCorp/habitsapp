@@ -1,4 +1,4 @@
-# App para Habits.ai
+# App para Habits
 
 ### Stack
 - React Native
