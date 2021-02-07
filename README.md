@@ -1,4 +1,4 @@
-# App para Habits
+# Habits App
 
 ### Stack
 - React Native
