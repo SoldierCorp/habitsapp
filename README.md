@@ -1,10 +1,10 @@
-# Habits App
+# React Native App with Context to manage orders
 
 ### Stack
 - React Native
 
-### Funcionalidades
+### Functionalities
 - Login y logout
-- Listado de órdenes
-- Creación de nueva orden
-- Eliminación de una orden (long press para eliminar)
+- Order list
+- Submit order
+- Delete order (long press to delete)
